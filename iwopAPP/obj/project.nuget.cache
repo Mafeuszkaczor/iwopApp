@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWMNgWluOXPFauVGKQ0gwd96iGfmV/4ejyEISrso1DBCWIzbBpZTV/sf4UB72D5XO/9AJC3kWtKpnrzLO4uxFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkaczor\\Source\\Repos\\iwopAPP\\iwopAPP\\iwopAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkaczor\\.nuget\\packages\\htmlagilitypack\\1.11.52\\htmlagilitypack.1.11.52.nupkg.sha512",
+    "C:\\Users\\mkaczor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
