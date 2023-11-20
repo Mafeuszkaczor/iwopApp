@@ -1,3 +1,5 @@
+.NET 6.0
+
 Webscrapping and Google Maps information downloader 
 
 This application can do webscrapping and collecting informations about place exising in google maps.
